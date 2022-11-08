@@ -1,0 +1,1 @@
+Sipmle rust frontend (using WASM) using yew
